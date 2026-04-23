@@ -33,13 +33,13 @@ Multi-threaded log analysis with production-safe design.
 
 ## Supported Formats
 
-  Windows Event Log  - text-exported .evtx/.evt
-  Syslog RFC 3164    - classic BSD syslog
-  Syslog RFC 5424    - structured syslog
-  IIS / W3C          - Microsoft IIS access logs
-  Apache / NGINX     - combined and common log formats
-  PowerShell         - ScriptBlock logging (Event 4104)
-  Generic            - any timestamped log file
+- Windows Event Log – text-exported .evtx/.evt
+- Syslog RFC 3164 – classic BSD syslog
+- Syslog RFC 5424 – structured syslog
+- IIS / W3C – Microsoft IIS access logs
+- Apache / NGINX – combined and common log formats
+- PowerShell – ScriptBlock logging (Event 4104)
+- Generic – any timestamped log file
 
 ---
 
